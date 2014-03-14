@@ -7,3 +7,5 @@ Feature for later release
 ---
 
 Second feature
+
+Final feature
