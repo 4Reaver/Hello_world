@@ -3,3 +3,5 @@ Version: dev
 Feature 1 with bug
 
 ---
+
+Second feature with bug
