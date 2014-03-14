@@ -1,4 +1,4 @@
-Version: dev
+Version: 1.0
 
 Feature 1 with bug
 
