@@ -4,4 +4,4 @@ Feature 1
 
 ---
 
-Second feature with bug
+Second feature
