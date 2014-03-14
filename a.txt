@@ -2,6 +2,8 @@ Version: dev
 
 Feature 1 with bug
 
+Feature for later release
+
 ---
 
 Second feature
